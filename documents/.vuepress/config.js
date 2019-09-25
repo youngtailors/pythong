@@ -1,4 +1,5 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around'
+  title: 'Pythong',
+  description: 'Thong Thong with Py',
+  base: '/pythong/'
 }
