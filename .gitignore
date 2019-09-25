@@ -234,4 +234,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+dist
+
 # End of https://www.gitignore.io/api/node,code,macos,python
