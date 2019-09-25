@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev documents",
-    "build": "vuepress build"
+    "build": "vuepress build documents"
   },
   "husky": {
     "hooks": {
