@@ -1,0 +1,20 @@
+{
+  "name": "pychon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aupous <tuan.phamvan.m@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev documents",
+    "build": "vuepress build"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "vuepress": "^1.1.0"
+  }
+}
