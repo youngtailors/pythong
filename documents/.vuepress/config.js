@@ -13,7 +13,8 @@ module.exports = {
         title: 'Guide',
         children: [ 
           ['/guide/','Setup'],
-          ['/guide/a_good_first_program' , 'A Good First Program' ]
+          ['/guide/a_good_first_program' , 'A Good First Program' ],
+          ['/guide/numbers_and_math' , 'Số và toán' ]
         ]
       }
     ]
