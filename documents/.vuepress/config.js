@@ -12,8 +12,9 @@ module.exports = {
       {
         title: 'Guide',
         children: [ 
-          ['/guide/','Setup'],
-          ['/guide/a_good_first_program' , 'A Good First Program' ]
+          ['/guide/','Cài đặt'],
+          ['/guide/a_good_first_program' , 'Chương trình đầu tiên' ],
+          ['/guide/comments_and_pound_characters' , 'Comment' ]
         ]
       }
     ]
