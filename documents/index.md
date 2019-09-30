@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: Hero Title
-tagline: Hero subtitle
+heroText: Pythong
+tagline: Thong Thong with Py
 actionText: Get Started →
 actionLink: /guide/
 features:
