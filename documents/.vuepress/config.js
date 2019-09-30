@@ -13,8 +13,9 @@ module.exports = {
         title: 'Guide',
         children: [ 
           ['/guide/','Cài đặt'],
-          ['/guide/a_good_first_program' , 'Chương trình đầu tiên' ],
-          ['/guide/comments_and_pound_characters' , 'Comment' ]
+          ['/guide/a_good_first_program' , 'Chương trình đầu tiên'],
+          ['/guide/comments_and_pound_characters' , 'Comment'],
+          ['/guide/more_printing' , 'Thêm về printing'],
         ]
       }
     ]
