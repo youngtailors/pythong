@@ -1,4 +1,4 @@
-# Tiếp tục về printing (3)
+# Print (3)
 
 Bài này sẽ nói về cách để tạo ra chuỗi mà có thể xuống dòng. Cách đầu tiên là sử dụng kí tự `\n`, là một kí tự xuống dòng. Cách thứ 2 là bọc string trong một cặp `"""`.
 

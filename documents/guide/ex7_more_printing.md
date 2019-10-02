@@ -1,4 +1,4 @@
-# Tiếp tục về printing
+# Print (1)
 
 ```py
 print("Mary had a little lamb.")
