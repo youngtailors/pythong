@@ -22,7 +22,8 @@ module.exports = {
           ['/guide/ex7_more_printing' , 'Thêm về printing'],
           ['/guide/ex8_printing_printing' , 'Thêm về printing (2)'],
           ['/guide/ex9_printing_printing_printing' , 'Thêm về printing (3)'],
-          ['/guide/ex10_what_was_that' , 'Thêm về printing (4)']
+          ['/guide/ex10_what_was_that' , 'Thêm về printing (4)'],
+          ['/guide/ex11_input' , 'Input']
         ]
       }
     ]
