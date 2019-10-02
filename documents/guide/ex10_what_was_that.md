@@ -1,4 +1,4 @@
-# Tiếp tục về printing (4)
+# Print (4)
 
 Các kí tự đặc biệt `'` hay `"` khi đặt giữa một chuỗi sẽ gây ra một vấn đề lớn. Tưởng tượng bạn có một chuỗi sử dụng nháy kép và muốn đặt một dấu nháy kép ở trong chuỗi, ví dụ như `"I "understand" joe."` Khi đó Python sẽ không hiểu được vì dấu nháy kép trước từ `understand` đã kết thúc chuỗi rồi. Do đó bạn cần phải cho Python biết rằng dấu nháy kép ở trong chuỗi không thực sự là dấu nháy kép, như sau:
 

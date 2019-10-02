@@ -1,4 +1,4 @@
-# Tiếp tục về printing (2)
+# Print (2)
 
 Chúng ta sẽ tiếp tục học cách làm việc với các định dạng string phức tạp hơn. Dạng string này sẽ làm cho code nhìn phức tạp, tuy nhiên nếu như comment cho mỗi dòng và chia thành từng phần, bạn sẽ hiểu được nó.
 
