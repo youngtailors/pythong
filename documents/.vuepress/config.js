@@ -24,6 +24,10 @@ module.exports = {
           [
             "/guide/ex13_parameters_unpacking_variables",
             "Tham số trong câu lệnh run"
+          ],
+          [
+            "/guide/ex14_prompting_and_passing",
+            "Kết hợp tham số trong câu lệnh run với input"
           ]
         ]
       }
