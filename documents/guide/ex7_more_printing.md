@@ -27,7 +27,7 @@ print(end7 + end8 + end9 + end10 + end11 + end12)
 Kết quả:
 
 ```
-$ python3.6 ex7.py
+$ python3 code/ex7.py
 Mary had a little lamb.
 Its fleece was white as snow.
 And everywhere that Mary went.

@@ -22,7 +22,7 @@ Even 4 lines if we want, or 5 or 6.
 Kết quả:
 
 ```
-$ python3.6 ex9.py
+$ python3 code/ex9.py
 Here are the days: Mon Tue Wed Thu Fri Sat Sun
 Here are the months: Jan
 Feb

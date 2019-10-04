@@ -24,7 +24,7 @@ Tiếp đó chúng ta in chúng ra như bình thường.
 Kết quả:
 
 ```
-python3 ex13.py 1 2 3
+python3 code/ex13.py 1 2 3
 The script is called: code/ex13.py
 Your first variable is: 1
 Your second variable is: 2

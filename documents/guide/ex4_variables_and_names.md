@@ -26,11 +26,12 @@ print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
 ```
 
-> **NOTE:** Kí tự _ trong space_in_a_car được gọi là kí tự gạch dưới. Tự tìm cách làm thế nào để viết nhá... Chúng ta sẽ dùng kí tự này rất nhiều để tách các từ trong tên biến.
+> **NOTE:** Kí tự \_ trong space_in_a_car được gọi là kí tự gạch dưới. Tự tìm cách làm thế nào để viết nhá... Chúng ta sẽ dùng kí tự này rất nhiều để tách các từ trong tên biến.
 
 Đây sẽ là kết quả mà bạn nên thấy:
+
 ```
-$ python ex4.py
+$ python3 code/ex4.py
 There are 100 cars available.
 There are only 30 drivers available.
 There will be 70 empty cars today.

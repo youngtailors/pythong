@@ -29,7 +29,7 @@ And you have a {computer} computer. Nice.
 Kết quả:
 
 ```
-python3 ex14.py Aupous
+python3 code/ex14.py Aupous
 Hi Aupous, I'm the code/ex14.py script.
 I'd like to ask you a few question.
 Do you like me Aupous?

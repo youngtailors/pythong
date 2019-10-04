@@ -1,6 +1,6 @@
 # Chuỗi và văn bản
 
-Ở  bài trước bạn đã viết string tuy nhiên vẫn chưa biết chúng dùng để làm gì. Trong bài này, chúng ta sẽ tạo ra một loạt các biến với các chuỗi phức tạp để xem xem chúng làm được gì. Đầu tiên sẽ là một chút giải thích về chuỗi.
+Ở bài trước bạn đã viết string tuy nhiên vẫn chưa biết chúng dùng để làm gì. Trong bài này, chúng ta sẽ tạo ra một loạt các biến với các chuỗi phức tạp để xem xem chúng làm được gì. Đầu tiên sẽ là một chút giải thích về chuỗi.
 
 Chuỗi là một văn bản nhỏ bạn muốn hiển thị ra hay xuất ra ngoài chương trình. Python sẽ biết bạn muốn thứ gì đó trở thành chuỗi khi đặt `"` (nháy kép) hoặc `'` (nháy đơn) quanh văn bản. Bạn đã thấy điều này rất nhiều lần khi sử dụng print ở các bài trước.
 
@@ -11,7 +11,7 @@ f"some stuff here {avariable}"
 f"some other stuff {anothervar}"
 ```
 
-Python *cũng* có một kiểu định dạng khác sử dụng cú pháp `.format()` được viết ở dòng thứ 17. Bạn sẽ thấy đôi khi tôi dùng nó khi muốn định dạng cho một chuỗi đã được tạo, ví dụ như khi dùng vòng lặp. Chúng ta sẽ tìm hiểu kĩ hơn về điều này sau.
+Python _cũng_ có một kiểu định dạng khác sử dụng cú pháp `.format()` được viết ở dòng thứ 17. Bạn sẽ thấy đôi khi tôi dùng nó khi muốn định dạng cho một chuỗi đã được tạo, ví dụ như khi dùng vòng lặp. Chúng ta sẽ tìm hiểu kĩ hơn về điều này sau.
 
 Sau đây chúng ta sẽ viết một loạt các chuỗi, biến và định dạng sau đó in ra. Bạn cũng sẽ thực hành sử dụng các biến rút gọn. Lập trình viên luôn thích tiết kiệm thời gian bằng cách sử dụng các tên biến khó chịu, vì vậy hãy bắt đầu với việc đọc và viết chúng từ sớm.
 
@@ -44,7 +44,7 @@ print(w + e)
 Sau đây là kết quả:
 
 ```
-$ python3.6 ex6.py
+$ python3 code/ex6.py
 There are 10 types of people.
 Those who know binary and those who don't.
 I said: There are 10 types of people.
