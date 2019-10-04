@@ -30,7 +30,8 @@ module.exports = {
             "Kết hợp tham số trong câu lệnh run với input"
           ],
           ["/guide/ex15_reading_file", "Đọc file"],
-          ["/guide/ex16_reading_and_writing_file", "Đọc và ghi file"]
+          ["/guide/ex16_reading_and_writing_file", "Đọc và ghi file"],
+          ["/guide/ex17_more_files", "Thêm về file"]
         ]
       }
     ]
