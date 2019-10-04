@@ -18,12 +18,12 @@ print(f"so, you're {age} old, {height} tall and {weight} heavy.")
 ```
 
 > **Chú ý**
-  Đặt `end=' '` ở cuối mỗi *print* line để không xuống dòng mà nối tiếp sang dòng thứ hai.
+> Đặt `end=' '` ở cuối mỗi _print_ line để không xuống dòng mà nối tiếp sang dòng thứ hai.
 
 Kết quả:
 
 ```
-$ python3 ex11.py
+$ python3 code/ex11.py
 How old are you? 38
 How tall are you? 6'2"
 How much do you weight? 180lbs

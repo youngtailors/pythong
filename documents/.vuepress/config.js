@@ -28,7 +28,8 @@ module.exports = {
           [
             "/guide/ex14_prompting_and_passing",
             "Kết hợp tham số trong câu lệnh run với input"
-          ]
+          ],
+          ["/guide/ex15_reading_file", "Đọc file"]
         ]
       }
     ]

@@ -30,7 +30,7 @@ print(f"If I add {my_age}, {my_height},and {my_weight} I get {total}.")
 Đây là output nên có:
 
 ```
-$ python ex5.py
+$ python3 code/ex5.py
 Let's talk about Zed A. Shaw.
 He's 74 inches tall.
 He's 180 pounds heavy.

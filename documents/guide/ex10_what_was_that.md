@@ -28,7 +28,7 @@ print(fat_cat)
 Kết quả:
 
 ```
-$python ex10.py
+$python3 code/ex10.py
   I'm tabbed in.
 I'm a split
 on a line.
@@ -38,24 +38,25 @@ I'll do a list:
   * Catnip
   * Grass
 ```
+
 ## Bảng kí tự đặc biệt
 
 Dưới đây là toàn bộ các kí tự đặc biệt với `\` mà Python hỗ trợ.
 
-| Escape        | What it does.                                             |
-| ------------- | --------------------------------------------------------- |
-| \\            | Backslash (\)                                             |
-| \'            | Single-quote (')                                          |
-| \"            | Double-quote (")                                          |
-| \a            | ASCII bell (BEL)                                          |
-| \b            | ASCII backspace (BS)                                      |
-| \f            | ASCII formfeed (FF)                                       |
-| \n            | ASCII linefeed (LF)                                       |
-| \N{name}      | Kí tự có tên name trong Unicode database (Chỉ Unicode) (\) |
-| \r            | Cariage return (CR)                                       |
-| \t            | Horizontal tab (TAB)                                      |
-| \uxxxx        | Kí tự với 16-bit hex value xxxx                           |
-| \Uxxxxxxxx    | Kí tự với 32-bit hex value xxxxxxxx                       |
-| \v            | ASCII verticle tab (VT)                                   |
-| \ooo          | Kí tự với octal value ooo                                 |
-| \xhh          | Kí tự với hex value hh                                    |
+| Escape     | What it does.                                              |
+| ---------- | ---------------------------------------------------------- |
+| \\         | Backslash (\)                                              |
+| \'         | Single-quote (')                                           |
+| \"         | Double-quote (")                                           |
+| \a         | ASCII bell (BEL)                                           |
+| \b         | ASCII backspace (BS)                                       |
+| \f         | ASCII formfeed (FF)                                        |
+| \n         | ASCII linefeed (LF)                                        |
+| \N{name}   | Kí tự có tên name trong Unicode database (Chỉ Unicode) (\) |
+| \r         | Cariage return (CR)                                        |
+| \t         | Horizontal tab (TAB)                                       |
+| \uxxxx     | Kí tự với 16-bit hex value xxxx                            |
+| \Uxxxxxxxx | Kí tự với 32-bit hex value xxxxxxxx                        |
+| \v         | ASCII verticle tab (VT)                                    |
+| \ooo       | Kí tự với octal value ooo                                  |
+| \xhh       | Kí tự với hex value hh                                     |

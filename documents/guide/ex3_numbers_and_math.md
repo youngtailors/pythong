@@ -1,5 +1,7 @@
 # Numbers and Math
+
 Các phép toán trong python:
+
 - `+` cộng
 - `-` trừ
 - `/` chia
@@ -39,7 +41,7 @@ print("Is it less or equal?", 5 <= -2)
 Kết quả sẽ như sau
 
 ```
-$ python3.6 ex3.py
+$ python3 code/ex3.py
 I will now count my chickens:
 Hens 30.0
 Roosters 97

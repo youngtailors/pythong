@@ -20,7 +20,7 @@ print(formatter.format(
 Kết quả như sau:
 
 ```
-$ python3.6 ex8.py
+$ python3 code/ex8.py
 1 2 3 4
 one two three four
 True False False True
