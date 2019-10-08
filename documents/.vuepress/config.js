@@ -32,7 +32,8 @@ module.exports = {
           ["/guide/ex15_reading_file", "Đọc file"],
           ["/guide/ex16_reading_and_writing_file", "Đọc và ghi file"],
           ["/guide/ex17_more_files", "Thêm về file"],
-          ["/guide/ex18_names_variables_code_functions", "Hàm"]
+          ["/guide/ex18_names_variables_code_functions", "Hàm"],
+          ["/guide/ex19_functions_and_variables", "Tham số của hàm"]
         ]
       }
     ]
