@@ -1,4 +1,4 @@
-# Tên, biến, code, hàm
+# Hàm
 
 Trong bài này tôi sẽ giới thiệu về hàm. Mỗi lập trình viên đều có những ý kiến khác nhau về cách mà các hàm hoạt động và chúng có thể làm gì. Tuy nhiên tôi sẽ giải thích về hàm một cách đơn giản nhất.
 
