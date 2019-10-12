@@ -33,9 +33,11 @@ module.exports = {
           ["/guide/ex16_reading_and_writing_file", "Đọc và ghi file"],
           ["/guide/ex17_more_files", "Thêm về file"],
           ["/guide/ex18_names_variables_code_functions", "Hàm"],
-          ["/guide/ex19_functions_and_variables", "Tham số của hàm"]
+          ["/guide/ex19_functions_and_variables", "Tham số của hàm"],
+          ["/guide/ex20_functions_and_files", "Hàm và file"]
         ]
       }
     ]
-  }
+  },
+  plugins: ["vuepress-plugin-cat"]
 };
