@@ -16,5 +16,8 @@
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "vuepress": "^1.1.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-cat": "^1.0.3"
   }
 }
