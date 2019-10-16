@@ -34,7 +34,8 @@ module.exports = {
           ["/guide/ex17_more_files", "Thêm về file"],
           ["/guide/ex18_names_variables_code_functions", "Hàm"],
           ["/guide/ex19_functions_and_variables", "Tham số của hàm"],
-          ["/guide/ex20_functions_and_files", "Hàm và file"]
+          ["/guide/ex20_functions_and_files", "Hàm và file"],
+          ["/guide/ex20_functions_can_return_somethings", "Hàm trả về giá trị"]
         ]
       }
     ]
